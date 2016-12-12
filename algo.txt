@@ -1,0 +1,15 @@
+
+var age = actualYear - birthYear
+SI actualYear- birthYear = 0
+	ALORS 
+	age = actualMonth - birthMonth 
+
+var age = actualYear - BirthYear
+Si actualYear - birthYear = 0
+	ALORS
+SI actualMonth - birthMonth = 0
+	ALORS
+age = actualDay - birthDay
+
+
+installer PHP, Python, Ruby, Verifiez le compilateur GCC, Java
